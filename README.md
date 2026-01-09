@@ -1,12 +1,12 @@
-~=~=~=~=~=~=~=~=~=~
-|| XORSHIFT STAR ||
-~=~=~=~=~=~=~=~=~=~
+# ~=~=~=~=~=~=~=~=~=~
+# || XORSHIFT STAR ||
+# ~=~=~=~=~=~=~=~=~=~
 
    A simple xorshift* implementation.
 
-~=~=~=~=~=~=~=~=~
-|| OBSERVATION ||
-~=~=~=~=~=~=~=~=~
+# ~=~=~=~=~=~=~=~=~
+# || OBSERVATION ||
+# ~=~=~=~=~=~=~=~=~
 
    **Range:** 1 to 25 (inclusive)
 
@@ -56,6 +56,8 @@
 
    The p-value implies that the distribution is almost perfectly aligned with what we expect from a fair random process. It's not too perfect (does not exceed P > 0.99) and it shows no signs of bias (because P < 0.05).
 
+   ![Distribution and Lag Plot](https://github.com/vs-123/xorshift-star/blob/main/distribution_and_lag_plot.png)
+
    Results of Wald-Wolfowitz Runs Test on the sequence of first two thousand numbers are given as follows.
 
    **Total Runs observed:** 980
@@ -72,9 +74,9 @@
 
    In an ideal PRNG this should be 0. Our Lag-1 Correlation of -0.0158 is extremely close to 0, that implies that knowing the current number gives zero useful information about what the next number will be.
 
-~=~=~=~=~=~=~
-|| LICENSE ||
-~=~=~=~=~=~=~
+# ~=~=~=~=~=~=~
+# || LICENSE ||
+# ~=~=~=~=~=~=~
 
    This project is licensed under GNU Affero General Public License version 3 or later.
    
