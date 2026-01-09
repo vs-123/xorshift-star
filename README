@@ -1,0 +1,15 @@
+~=~=~=~=~=~=~=~=~=~
+|| XORSHIFT STAR ||
+~=~=~=~=~=~=~=~=~=~
+
+   A simple xorshift* implementation.
+
+~=~=~=~=~=~=~
+|| LICENSE ||
+~=~=~=~=~=~=~
+
+   This project is licensed under GNU Affero General Public License version 3 or later.
+   
+   NO WARRANTY PROVIDED
+				   
+   See LICENSE file for full terms or visit https://www.gnu.org/licenses/agpl-3.0.html for more info.
