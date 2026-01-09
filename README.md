@@ -16,33 +16,33 @@
 
    **Tally:**
 
-      | Number | Frequency |
-      |--------|-----------|
-      |      1 | 378 times |
-      |      2 | 428 times |
-      |      3 | 373 times |
-      |      4 | 398 times |
-      |      5 | 399 times |
-      |      6 | 382 times |
-      |      7 | 410 times |
-      |      8 | 405 times |
-      |      9 | 373 times |
-      |     10 | 388 times |
-      |     11 | 407 times |
-      |     12 | 409 times |
-      |     13 | 388 times |
-      |     14 | 368 times |
-      |     15 | 397 times |
-      |     16 | 414 times |
-      |     17 | 449 times |
-      |     18 | 402 times |
-      |     19 | 417 times |
-      |     20 | 416 times |
-      |     21 | 400 times |
-      |     22 | 397 times |
-      |     23 | 397 times |
-      |     24 | 428 times |
-      |     25 | 377 times |
+   | Number | Frequency |
+   |--------|-----------|
+   |      1 | 378 times |
+   |      2 | 428 times |
+   |      3 | 373 times |
+   |      4 | 398 times |
+   |      5 | 399 times |
+   |      6 | 382 times |
+   |      7 | 410 times |
+   |      8 | 405 times |
+   |      9 | 373 times |
+   |     10 | 388 times |
+   |     11 | 407 times |
+   |     12 | 409 times |
+   |     13 | 388 times |
+   |     14 | 368 times |
+   |     15 | 397 times |
+   |     16 | 414 times |
+   |     17 | 449 times |
+   |     18 | 402 times |
+   |     19 | 417 times |
+   |     20 | 416 times |
+   |     21 | 400 times |
+   |     22 | 397 times |
+   |     23 | 397 times |
+   |     24 | 428 times |
+   |     25 | 377 times |
 
    **Chi-Squared Value:** 22.77
    
