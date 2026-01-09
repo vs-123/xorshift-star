@@ -40,12 +40,15 @@ int main(void)
    u64 seed = time(NULL) ^ (u64)&seed ^ (u64)main;
 
 #define min 1u
-#define max 100u
+#define max 25u
 
-   u64 freq[max + 1] = {0};
+u64 freq[max + 1] = {0};
 
-   for (u32 i = 0; i < 1000000; i++) {
+printf("sequence -- ");
+
+   for (u32 i = 0; i < 10000; i++) {
       u32 num = get_rand_range(&seed, min, max);
+      printf("%d  ", num);
       freq[num - 1]++;
    }
 
